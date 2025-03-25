@@ -1,0 +1,128 @@
+2025-03-24 10:20:56,712 - INFO - Running scalability analysis for dataset_size=small, cluster_size=2
+2025-03-24 10:20:56,715 - INFO - Starting processing for dataset_size=small, cluster_size=2
+2025-03-24 10:21:01,773 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:01,817 - INFO - Time elapsed: 0.04 seconds
+2025-03-24 10:21:01,819 - INFO - Memory usage: 9.80 MB
+2025-03-24 10:21:01,821 - INFO - CPU usage: 50.00%
+2025-03-24 10:21:01,824 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:03,046 - INFO - Spark session stopped successfully
+2025-03-24 10:21:03,049 - INFO - Completed processing: time=6.33s, CPU=4.15%, memory=12.21MB
+2025-03-24 10:21:08,062 - INFO - Running scalability analysis for dataset_size=small, cluster_size=4
+2025-03-24 10:21:08,065 - INFO - Starting processing for dataset_size=small, cluster_size=4
+2025-03-24 10:21:08,341 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:08,345 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:08,345 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:08,347 - INFO - CPU usage: 50.00%
+2025-03-24 10:21:08,349 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:09,831 - INFO - Spark session stopped successfully
+2025-03-24 10:21:09,834 - INFO - Completed processing: time=1.77s, CPU=5.20%, memory=0.16MB
+2025-03-24 10:21:14,846 - INFO - Running scalability analysis for dataset_size=small, cluster_size=8
+2025-03-24 10:21:14,849 - INFO - Starting processing for dataset_size=small, cluster_size=8
+2025-03-24 10:21:15,074 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:15,076 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:15,077 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:15,078 - INFO - CPU usage: 50.00%
+2025-03-24 10:21:15,079 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:16,559 - INFO - Spark session stopped successfully
+2025-03-24 10:21:16,562 - INFO - Completed processing: time=1.71s, CPU=5.90%, memory=0.00MB
+2025-03-24 10:21:21,572 - INFO - Running scalability analysis for dataset_size=medium, cluster_size=2
+2025-03-24 10:21:21,575 - INFO - Starting processing for dataset_size=medium, cluster_size=2
+2025-03-24 10:21:21,811 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:21,815 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:21,816 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:21,818 - INFO - CPU usage: 0.00%
+2025-03-24 10:21:21,819 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:22,867 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc
+2025-03-24 10:21:22,874 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:22,876 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:22,878 - INFO - CPU usage: 25.00%
+2025-03-24 10:21:22,880 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc'
+2025-03-24 10:21:24,293 - INFO - Spark session stopped successfully
+2025-03-24 10:21:24,297 - INFO - Completed processing: time=2.72s, CPU=3.70%, memory=0.00MB
+2025-03-24 10:21:29,307 - INFO - Running scalability analysis for dataset_size=medium, cluster_size=4
+2025-03-24 10:21:29,309 - INFO - Starting processing for dataset_size=medium, cluster_size=4
+2025-03-24 10:21:29,490 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:29,493 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:29,494 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:29,495 - INFO - CPU usage: 0.00%
+2025-03-24 10:21:29,496 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:30,540 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc
+2025-03-24 10:21:30,546 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:30,549 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:30,551 - INFO - CPU usage: 25.00%
+2025-03-24 10:21:30,552 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc'
+2025-03-24 10:21:31,974 - INFO - Spark session stopped successfully
+2025-03-24 10:21:31,978 - INFO - Completed processing: time=2.66s, CPU=4.37%, memory=0.00MB
+2025-03-24 10:21:36,987 - INFO - Running scalability analysis for dataset_size=medium, cluster_size=8
+2025-03-24 10:21:36,990 - INFO - Starting processing for dataset_size=medium, cluster_size=8
+2025-03-24 10:21:37,164 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:37,166 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:37,167 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:37,168 - INFO - CPU usage: 0.00%
+2025-03-24 10:21:37,169 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:38,214 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc
+2025-03-24 10:21:38,220 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:38,223 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:38,225 - INFO - CPU usage: 50.00%
+2025-03-24 10:21:38,226 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc'
+2025-03-24 10:21:39,650 - INFO - Spark session stopped successfully
+2025-03-24 10:21:39,654 - INFO - Completed processing: time=2.66s, CPU=8.03%, memory=0.00MB
+2025-03-24 10:21:44,667 - INFO - Running scalability analysis for dataset_size=large, cluster_size=2
+2025-03-24 10:21:44,670 - INFO - Starting processing for dataset_size=large, cluster_size=2
+2025-03-24 10:21:44,862 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:44,865 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:44,866 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:44,867 - INFO - CPU usage: 50.00%
+2025-03-24 10:21:44,868 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:45,932 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc
+2025-03-24 10:21:45,938 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:45,940 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:45,941 - INFO - CPU usage: 50.00%
+2025-03-24 10:21:45,943 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc'
+2025-03-24 10:21:47,007 - INFO - Processing file: tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc
+2025-03-24 10:21:47,013 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:47,015 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:47,017 - INFO - CPU usage: 50.00%
+2025-03-24 10:21:47,019 - ERROR - Error processing tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc'
+2025-03-24 10:21:48,349 - INFO - Spark session stopped successfully
+2025-03-24 10:21:48,352 - INFO - Completed processing: time=3.68s, CPU=5.60%, memory=0.00MB
+2025-03-24 10:21:53,361 - INFO - Running scalability analysis for dataset_size=large, cluster_size=4
+2025-03-24 10:21:53,364 - INFO - Starting processing for dataset_size=large, cluster_size=4
+2025-03-24 10:21:53,535 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:21:53,537 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:53,538 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:53,539 - INFO - CPU usage: 0.00%
+2025-03-24 10:21:53,540 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:21:54,594 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc
+2025-03-24 10:21:54,600 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:54,602 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:54,604 - INFO - CPU usage: 25.00%
+2025-03-24 10:21:54,606 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc'
+2025-03-24 10:21:55,668 - INFO - Processing file: tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc
+2025-03-24 10:21:55,674 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:21:55,676 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:21:55,678 - INFO - CPU usage: 25.00%
+2025-03-24 10:21:55,683 - ERROR - Error processing tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc'
+2025-03-24 10:21:57,015 - INFO - Spark session stopped successfully
+2025-03-24 10:21:57,018 - INFO - Completed processing: time=3.65s, CPU=6.72%, memory=0.00MB
+2025-03-24 10:22:02,029 - INFO - Running scalability analysis for dataset_size=large, cluster_size=8
+2025-03-24 10:22:02,032 - INFO - Starting processing for dataset_size=large, cluster_size=8
+2025-03-24 10:22:02,207 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc
+2025-03-24 10:22:02,209 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:22:02,210 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:22:02,211 - INFO - CPU usage: 50.00%
+2025-03-24 10:22:02,212 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1980-1994_v30.0e.nc'
+2025-03-24 10:22:03,264 - INFO - Processing file: tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc
+2025-03-24 10:22:03,271 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:22:03,273 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:22:03,275 - INFO - CPU usage: 0.00%
+2025-03-24 10:22:03,276 - ERROR - Error processing tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_1995-2010_v30.0e.nc'
+2025-03-24 10:22:04,327 - INFO - Processing file: tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc
+2025-03-24 10:22:04,334 - INFO - Time elapsed: 0.00 seconds
+2025-03-24 10:22:04,336 - INFO - Memory usage: 0.00 MB
+2025-03-24 10:22:04,338 - INFO - CPU usage: 0.00%
+2025-03-24 10:22:04,340 - ERROR - Error processing tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc: [Errno 2] No such file or directory: '/home/ubuntu/DataEngineering/project/results/scalability_results/tg_ens_mean_0.25deg_reg_2011-2024_v30.0e.nc'
+2025-03-24 10:22:05,693 - INFO - Spark session stopped successfully
+2025-03-24 10:22:05,697 - INFO - Completed processing: time=3.66s, CPU=8.12%, memory=0.00MB
+2025-03-24 10:22:10,721 - INFO - Scalability analysis complete. Results saved to scalability_results.csv
+2025-03-24 10:22:10,722 - INFO - Summary saved to scalability_summary.csv
